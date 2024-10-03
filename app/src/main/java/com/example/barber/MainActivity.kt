@@ -17,7 +17,7 @@ class MainActivity : AppCompatActivity() {
         // Habilitar JavaScript (se necessário)
         webView.settings.javaScriptEnabled = true
 
-        // Para carregar o conteúdo dentro do WebView sem abrir o navegador externo
+        // Para carregar o conteúdo dentro do WebView sem abrir o navegador externoo
         webView.webViewClient = WebViewClient()
 
         // Carregar uma URL
