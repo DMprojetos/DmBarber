@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "C:\\Users\\Deivid\\.gradle\\daemon\\8.7\\com.example.barber.app-debug-55:\\layout_activity_pagina_inicial.xml.flat",
+        "source": "C:\\Users\\Deivid\\.gradle\\daemon\\8.7\\com.example.barber.app-main-57:\\layout\\activity_pagina_inicial.xml"
+    },
+    {
+        "merged": "C:\\Users\\Deivid\\.gradle\\daemon\\8.7\\com.example.barber.app-debug-55:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Deivid\\.gradle\\daemon\\8.7\\com.example.barber.app-main-57:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Deivid\\.gradle\\daemon\\8.7\\com.example.barber.app-debug-55:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Deivid\\.gradle\\daemon\\8.7\\com.example.barber.app-main-57:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Deivid\\.gradle\\daemon\\8.7\\com.example.barber.app-debug-55:\\mipmap-mdpi_logopng_foreground.webp.flat",
+        "source": "C:\\Users\\Deivid\\.gradle\\daemon\\8.7\\com.example.barber.app-main-57:\\mipmap-mdpi\\logopng_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Deivid\\.gradle\\daemon\\8.7\\com.example.barber.app-debug-55:\\mipmap-xhdpi_logopng.webp.flat",
+        "source": "C:\\Users\\Deivid\\.gradle\\daemon\\8.7\\com.example.barber.app-main-57:\\mipmap-xhdpi\\logopng.webp"
+    },
+    {
+        "merged": "C:\\Users\\Deivid\\.gradle\\daemon\\8.7\\com.example.barber.app-debug-55:\\drawable_suabarber.png.flat",
+        "source": "C:\\Users\\Deivid\\.gradle\\daemon\\8.7\\com.example.barber.app-main-57:\\drawable\\suabarber.png"
+    },
+    {
+        "merged": "C:\\Users\\Deivid\\.gradle\\daemon\\8.7\\com.example.barber.app-debug-55:\\drawable_logopng.png.flat",
+        "source": "C:\\Users\\Deivid\\.gradle\\daemon\\8.7\\com.example.barber.app-main-57:\\drawable\\logopng.png"
+    },
+    {
+        "merged": "C:\\Users\\Deivid\\.gradle\\daemon\\8.7\\com.example.barber.app-debug-55:\\drawable_logobarber_background.xml.flat",
+        "source": "C:\\Users\\Deivid\\.gradle\\daemon\\8.7\\com.example.barber.app-main-57:\\drawable\\logobarber_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Deivid\\.gradle\\daemon\\8.7\\com.example.barber.app-debug-55:\\mipmap-anydpi-v26_logopng.xml.flat",
+        "source": "C:\\Users\\Deivid\\.gradle\\daemon\\8.7\\com.example.barber.app-main-57:\\mipmap-anydpi-v26\\logopng.xml"
+    },
+    {
+        "merged": "com.example.barber.app-debug-55:/drawable_fundobarber2.jpg.flat",
+        "source": "com.example.barber.app-main-57:/drawable/fundobarber2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Deivid\\.gradle\\daemon\\8.7\\com.example.barber.app-debug-55:\\mipmap-xhdpi_logopng_foreground.webp.flat",
+        "source": "C:\\Users\\Deivid\\.gradle\\daemon\\8.7\\com.example.barber.app-main-57:\\mipmap-xhdpi\\logopng_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Deivid\\.gradle\\daemon\\8.7\\com.example.barber.app-debug-55:\\mipmap-mdpi_logopng.webp.flat",
+        "source": "C:\\Users\\Deivid\\.gradle\\daemon\\8.7\\com.example.barber.app-main-57:\\mipmap-mdpi\\logopng.webp"
+    },
+    {
+        "merged": "C:\\Users\\Deivid\\.gradle\\daemon\\8.7\\com.example.barber.app-debug-55:\\mipmap-xxhdpi_logopng_foreground.webp.flat",
+        "source": "C:\\Users\\Deivid\\.gradle\\daemon\\8.7\\com.example.barber.app-main-57:\\mipmap-xxhdpi\\logopng_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Deivid\\.gradle\\daemon\\8.7\\com.example.barber.app-debug-55:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Deivid\\.gradle\\daemon\\8.7\\com.example.barber.app-main-57:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Deivid\\.gradle\\daemon\\8.7\\com.example.barber.app-debug-55:\\drawable_fundobarber.png.flat",
+        "source": "C:\\Users\\Deivid\\.gradle\\daemon\\8.7\\com.example.barber.app-main-57:\\drawable\\fundobarber.png"
+    },
+    {
+        "merged": "C:\\Users\\Deivid\\.gradle\\daemon\\8.7\\com.example.barber.app-debug-55:\\mipmap-hdpi_logopng_foreground.webp.flat",
+        "source": "C:\\Users\\Deivid\\.gradle\\daemon\\8.7\\com.example.barber.app-main-57:\\mipmap-hdpi\\logopng_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Deivid\\.gradle\\daemon\\8.7\\com.example.barber.app-debug-55:\\mipmap-xxhdpi_logopng.webp.flat",
+        "source": "C:\\Users\\Deivid\\.gradle\\daemon\\8.7\\com.example.barber.app-main-57:\\mipmap-xxhdpi\\logopng.webp"
+    },
+    {
+        "merged": "C:\\Users\\Deivid\\.gradle\\daemon\\8.7\\com.example.barber.app-debug-55:\\drawable_fundobarber1.jpg.flat",
+        "source": "C:\\Users\\Deivid\\.gradle\\daemon\\8.7\\com.example.barber.app-main-57:\\drawable\\fundobarber1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Deivid\\.gradle\\daemon\\8.7\\com.example.barber.app-debug-55:\\mipmap-hdpi_logopng.webp.flat",
+        "source": "C:\\Users\\Deivid\\.gradle\\daemon\\8.7\\com.example.barber.app-main-57:\\mipmap-hdpi\\logopng.webp"
+    },
+    {
+        "merged": "C:\\Users\\Deivid\\.gradle\\daemon\\8.7\\com.example.barber.app-debug-55:\\mipmap-xxxhdpi_logopng.webp.flat",
+        "source": "C:\\Users\\Deivid\\.gradle\\daemon\\8.7\\com.example.barber.app-main-57:\\mipmap-xxxhdpi\\logopng.webp"
+    },
+    {
+        "merged": "C:\\Users\\Deivid\\.gradle\\daemon\\8.7\\com.example.barber.app-debug-55:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Deivid\\.gradle\\daemon\\8.7\\com.example.barber.app-main-57:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Deivid\\.gradle\\daemon\\8.7\\com.example.barber.app-debug-55:\\mipmap-xxxhdpi_logopng_foreground.webp.flat",
+        "source": "C:\\Users\\Deivid\\.gradle\\daemon\\8.7\\com.example.barber.app-main-57:\\mipmap-xxxhdpi\\logopng_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Deivid\\.gradle\\daemon\\8.7\\com.example.barber.app-debug-55:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Deivid\\.gradle\\daemon\\8.7\\com.example.barber.app-main-57:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Deivid\\.gradle\\daemon\\8.7\\com.example.barber.app-debug-55:\\drawable_baianoducorte.png.flat",
+        "source": "C:\\Users\\Deivid\\.gradle\\daemon\\8.7\\com.example.barber.app-main-57:\\drawable\\baianoducorte.png"
+    },
+    {
+        "merged": "C:\\Users\\Deivid\\.gradle\\daemon\\8.7\\com.example.barber.app-debug-55:\\drawable_logo.png.flat",
+        "source": "C:\\Users\\Deivid\\.gradle\\daemon\\8.7\\com.example.barber.app-main-57:\\drawable\\logo.png"
+    }
+]

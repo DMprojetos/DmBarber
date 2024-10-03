@@ -1,0 +1,28 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable baianoducorte
+drawable fundobarber
+drawable fundobarber1
+drawable fundobarber2
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable logo
+drawable logobarber_background
+drawable logopng
+drawable suabarber
+id clic
+id imageButtonBaiano
+id imageView
+id main
+id webView
+layout activity_main
+layout activity_pagina_inicial
+mipmap logopng
+mipmap logopng_foreground
+string app_name
+style Base.Theme.Barber
+style Theme.Barber
+xml backup_rules
+xml data_extraction_rules

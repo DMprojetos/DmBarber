@@ -1,0 +1,5 @@
+com.example.barber.test.app-core-1.6.1-0 C:\Users\Deivid\.gradle\caches\transforms-4\e55ed4e6aa3373ab84b8d900a408c554\transformed\core-1.6.1\res
+com.example.barber.test.app-androidTest-1 C:\Users\Deivid\AndroidStudioProjects\barber2\app\build\generated\res\resValues\androidTest\debug
+com.example.barber.test.app-mergeDebugAndroidTestResources-2 C:\Users\Deivid\AndroidStudioProjects\barber2\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.barber.test.app-mergeDebugAndroidTestResources-3 C:\Users\Deivid\AndroidStudioProjects\barber2\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.barber.test.app-debugAndroidTest-4 C:\Users\Deivid\AndroidStudioProjects\barber2\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
